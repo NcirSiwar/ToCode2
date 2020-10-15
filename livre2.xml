@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre titre="les garçon et les filles ">
+<auteurs>
+<auteur nom="amelie" prenom="ncir"/>
+<auteur nom="mario" prenom="yousfi"/>
+</auteurs>
+<sections>
+<section titre="Section 1">
+<chapitre titre="Chapitre 1">
+<paragraphe>paragraphe 1</paragraphe>
+<paragraphe>paragraphe 2</paragraphe>
+</chapitre>
+<chapitre titre="Chapitre 2">
+<paragraphe>paragraphe 1</paragraphe>
+<paragraphe>paragraphe 2</paragraphe>
+</chapitre>
+</section>
+<section titre="Section 2">
+<chapitre titre="Chapitre 1">
+<paragraphe> paragraphe 1</paragraphe>
+<paragraphe>paragraphe 2 </paragraphe>
+</chapitre>
+<chapitre titre="Chapitre 2">
+<paragraphe>paragraphe 1 </paragraphe>
+<paragraphe>paragraphe 2 </paragraphe>
+</chapitre>
+</section>
+</sections>
+</livre>
